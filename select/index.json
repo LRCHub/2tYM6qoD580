@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Shekebon!",
+  "base_artist": "ビッケブランカ",
+  "createdAt": "2026-03-29T16:17:45.810398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "Vickeblanka",
+      "has_synced": true,
+      "path": "select/01_Shekebon!_Vickeblanka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/02_Shekebon!_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/03_Shekebon!_VK_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "VK Blanka",
+      "has_synced": false,
+      "path": "select/04_Shekebon!_VK_Blanka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shekebon! Instrumental",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/05_Shekebon!_Instrumental_VK_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/06_Shekebon!_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shekebon! Instrumental",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/07_Shekebon!_Instrumental_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shekebon!",
+      "artist": "Vicke Blanka",
+      "has_synced": true,
+      "path": "select/08_Shekebon!_Vicke_Blanka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shekebon! (Instrumental)",
+      "artist": "VK Blanka",
+      "has_synced": true,
+      "path": "select/09_Shekebon!_(Instrumental)_VK_Blanka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shekebon!",
+      "artist": "ビッケブランカ",
+      "has_synced": false,
+      "path": "select/pl_01_Shekebon!_ビッケブランカ.txt"
+    }
+  ]
+}
